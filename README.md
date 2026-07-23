@@ -1,33 +1,54 @@
 # 🚀 DevClub Homepage
 
-Recriação da homepage da DevClub desenvolvida como desafio Front-end.
+Landing page institucional desenvolvida como desafio Front-end inspirado na identidade visual da DevClub.
 
-Este projeto foi criado com o objetivo de reproduzir a experiência visual da página da DevClub utilizando tecnologias modernas de desenvolvimento web, aplicando conceitos de responsividade, organização de componentes e boas práticas de código.
+O objetivo do projeto foi criar uma experiência moderna e interativa para apresentar uma formação em programação, aplicando conceitos de desenvolvimento Front-end, responsividade, componentização e experiência do usuário.
 
 ## 🌐 Projeto Online
 
 https://devclub-awards.vercel.app/
 
+---
+
+## 💻 Sobre o projeto
+
+A DevClub Homepage foi construída utilizando tecnologias modernas do ecossistema React, buscando criar uma interface profissional, responsiva e com elementos visuais que transmitam inovação e tecnologia.
+
+Durante o desenvolvimento foram aplicados conceitos como:
+
+* Organização de componentes
+* Reutilização de código
+* Responsividade
+* Animações e interações
+* Estrutura moderna utilizando Next.js
+
+---
+
 ## 🚀 Tecnologias utilizadas
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Git
-- GitHub
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* Lucide React
+* Git
+* GitHub
+
+---
 
 ## ✨ Funcionalidades
 
-- Layout responsivo para diferentes dispositivos
-- Interface moderna inspirada na identidade visual da DevClub
-- Componentes reutilizáveis
-- Botão flutuante de WhatsApp
-- Estrutura otimizada utilizando Next.js
+* Layout responsivo para diferentes dispositivos
+* Hero section com animações e interações
+* Cards de formações com efeitos visuais
+* Apresentação de projetos desenvolvidos
+* Interface moderna com tema dark e detalhes em dourado
+* Componentes reutilizáveis
+* Botão flutuante de WhatsApp
+* Deploy realizado utilizando Vercel
 
-## 📸 Preview
-
-![DevClub Homepage Preview](./public/devclub-homepage.png)
+---
 
 ## 📂 Estrutura do projeto
 
@@ -38,22 +59,27 @@ src/
  └── public/
 ```
 
+---
+
+## 📸 Preview
+
+DevClub Homepage Preview
+
+---
+
 ## 🎯 Objetivo
 
-Projeto desenvolvido como desafio de recriação de interface Front-end, buscando entregar uma experiência próxima da página original da DevClub.
+Projeto desenvolvido para o desafio da DevClub, buscando criar uma homepage moderna que representasse a proposta da plataforma: ensinar programação através da prática e construção de projetos reais.
 
-Durante o desenvolvimento foram aplicados conceitos de:
+---
 
-- Componentização com React
-- Desenvolvimento responsivo
-- Organização de código
-- Deploy utilizando Vercel
-
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Desenvolvedor
 
 **Wendell Silva**
 
 Desenvolvedor Front-end Júnior
 
+📍 São Paulo, Brasil
+
 Tecnologias:
-React | Next.js | TypeScript | JavaScript
+React | Next.js | TypeScript | JavaScript | Tailwind CSS
